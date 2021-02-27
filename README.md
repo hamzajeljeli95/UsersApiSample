@@ -8,3 +8,11 @@
 <li>If you are willing to host this demo (somehow ?), make sure to remove the comments from <b>spring-boot-starter-tomcat</b> in <b>pom.xml</b>.</li>
 <li>If you want any help ? Email me at <b>jeljelihamza@gmail.com</b></li>
 </ul>
+
+<p>Some Screenshots :</p>
+<center>
+<img src="screens/main.JPG" width="600px"/>
+<label>Swagger-UI Interface</label>
+<img src="screens/resulat.JPG" width="600px"/>
+<label>/Users/List API Call response</label>
+</center>
